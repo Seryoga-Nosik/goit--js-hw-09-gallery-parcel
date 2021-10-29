@@ -1,0 +1,25 @@
+{
+  "name": "goit--js-hw-09-gallery-parcel",
+  "version": "1.0.0",
+  "description": "Домашняя работа № 9.",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seryoga-Nosik/goit--js-hw-09-gallery-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seryoga-Nosik/goit--js-hw-09-gallery-parcel/issues"
+  },
+  "homepage": "https://github.com/Seryoga-Nosik/goit--js-hw-09-gallery-parcel#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
